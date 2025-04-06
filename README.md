@@ -16,7 +16,7 @@ Here you can find table with the notebooks and their descriptions.
         <th>Introduction to Numpy</th>
     </tr>
         <tr>
-        <th><a href="https://github.com/Jeanramosa/intro-ml-V-Jeanramos/blob/main/Lesson%20II%20-%20Numpy%20Intro%20-%20Blank.ipynb">Pandas Intro</a></th>
+        <th><a href="https://github.com/Jeanramosa/intro-ml-V-Jeanramos/blob/main/Lesson%20III%20-%20Pandas%20Intro.ipynb">Pandas Intro</a></th>
         <th>Introduction to Pandas</th>
     </tr>
 </table>
