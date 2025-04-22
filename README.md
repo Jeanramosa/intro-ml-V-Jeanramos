@@ -24,8 +24,12 @@ Here you can find table with the notebooks and their descriptions.
         <th>Introduction to Matplotlib and Seaborn</th>
     </tr>
         <tr>
-        <th><a href="https://github.com/Jeanramosa/intro-ml-V-Jeanramos/blob/main/Lesson%20VI%20-%20Scikit%20Learn%20Intro.ipynb">Scikit Learn< Intro</a></th>
+        <th><a href="https://github.com/Jeanramosa/intro-ml-V-Jeanramos/blob/main/Lesson%20V%20-%20Scikit%20Learn%20Intro.ipynb">Scikit Learn< Intro</a></th>
         <th>Introduction to Scikit Learn</th>
+    </tr>
+    <tr>
+        <th><a href="https://github.com/Jeanramosa/intro-ml-V-Jeanramos/blob/main/Lesson%20VI%20Kaggle%20Challenge.ipynb">Kaggle Challenge</a></th>
+        <th>Spaceship Titanic</th>
     </tr>
 </table>
 
