@@ -12,12 +12,20 @@ Here you can find table with the notebooks and their descriptions.
         <th>Description</th>
     </tr>
     <tr>
-        <th><a href="https://github.com/Jeanramosa/intro-ml-V-Jeanramos/blob/main/Lesson%20II%20-%20Numpy%20Intro%20-%20Blank.ipynb">Numpy Intro</a></th>
+        <th><a href="https://github.com/Jeanramosa/intro-ml-V-Jeanramos/blob/main/Notebooks/Lesson%20II%20-%20Numpy%20Intro.ipynb">Numpy Intro</a></th>
         <th>Introduction to Numpy</th>
     </tr>
-        <tr>
-        <th><a href="https://github.com/Jeanramosa/intro-ml-V-Jeanramos/blob/main/Lesson%20III%20-%20Pandas%20Intro.ipynb">Pandas Intro</a></th>
+    <tr>
+        <th><a href="https://github.com/Jeanramosa/intro-ml-V-Jeanramos/blob/main/Notebooks/Lesson%20III%20-%20Pandas%20Intro.ipynb">Pandas Intro</a></th>
         <th>Introduction to Pandas</th>
+    </tr>
+    <tr>
+        <th><a href="https://github.com/Jeanramosa/intro-ml-V-Jeanramos/blob/main/Notebooks/Lesson%20IV%20-%20Matplotlib%20and%20Seaborn%20Intro.ipynb">Matplotlib and Seaborn Intro</a></th>
+        <th>Introduction to Matplotlib and Seaborn</th>
+    </tr>
+        <tr>
+        <th><a href="https://github.com/Jeanramosa/intro-ml-V-Jeanramos/blob/main/Lesson%20VI%20-%20Scikit%20Learn%20Intro.ipynb">Scikit Learn< Intro</a></th>
+        <th>Introduction to Scikit Learn</th>
     </tr>
 </table>
 
