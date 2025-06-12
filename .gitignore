@@ -1,3 +1,6 @@
+#Para no mostrar mlruns
+mlruns/
+
 # Para no subir data
 data/
 
