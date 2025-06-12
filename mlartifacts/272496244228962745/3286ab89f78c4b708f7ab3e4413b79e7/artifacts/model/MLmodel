@@ -14,12 +14,8 @@ flavors:
     serialization_format: cloudpickle
     sklearn_version: 1.6.1
 mlflow_version: 2.22.1
-model_size_bytes: 452
-model_uuid: 78ef4316dfaa4d74aee45fdbe6aeb1fe
+model_size_bytes: 372
+model_uuid: 452b764bf09c414c9af2c43fa8a0aa36
 prompts: null
-run_id: a8a045a7e43c4c05901da94a660cef8c
-saved_input_example_info:
-  artifact_path: input_example.json
-  serving_input_path: serving_input_example.json
-  type: ndarray
-utc_time_created: '2025-06-12 17:19:37.754094'
+run_id: 3286ab89f78c4b708f7ab3e4413b79e7
+utc_time_created: '2025-06-12 18:36:28.021130'

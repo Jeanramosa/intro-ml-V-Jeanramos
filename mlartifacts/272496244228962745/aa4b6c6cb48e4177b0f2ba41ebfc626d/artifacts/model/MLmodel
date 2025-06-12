@@ -13,9 +13,16 @@ flavors:
     pickled_model: model.pkl
     serialization_format: cloudpickle
     sklearn_version: 1.6.1
+is_signature_from_type_hint: false
 mlflow_version: 2.22.1
 model_size_bytes: 372
-model_uuid: d9c657d3aae74d0dad499726c46796da
+model_uuid: d7ce8fdab75d4201a15f1570e7d8a39c
 prompts: null
-run_id: 997ebe5a00f94ed59a54b2c288cdaed2
-utc_time_created: '2025-06-12 17:08:54.818763'
+run_id: aa4b6c6cb48e4177b0f2ba41ebfc626d
+signature:
+  inputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float64", "shape": [-1, 1]}}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float64", "shape": [-1,
+    1]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-06-12 18:36:34.909589'
