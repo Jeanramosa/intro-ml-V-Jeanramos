@@ -1,5 +1,6 @@
 mlruns/
 mlartifacts/
+hide/
 
 # Para no subir data
 data/
